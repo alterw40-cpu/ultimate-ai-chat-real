@@ -1,0 +1,19 @@
+{
+  "name": "ultimate-ai-chat-real",
+  "version": "1.0.0",
+  "description": "Real AI Chat running GPT4All-J locally with WebLLM",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "webllm": "^0.7.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.0",
+    "vite": "^4.0.0"
+  }
+}

@@ -12,6 +12,7 @@
     "react-dom": "^18.2.0",
     "webllm": "github:nomic-ai/webllm"
 
+
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.0.0",
